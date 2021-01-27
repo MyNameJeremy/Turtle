@@ -29,3 +29,5 @@ while True:
         t.goto(300,100)
     elif keyboard.is_pressed("0"):
         t.goto(400,100)
+
+        
